@@ -4,8 +4,7 @@ title: About me
 subtitle: Time without purpose is a prison. 
 ---
 
-My name is John, and I am a student of Physics. I am particularly interested in building a time machine, just kidding. I 
-am interested in Physics, Data Science, Machine Learning 
+My name is John. I am a student of Physics, I cook a mean steak and I am an aspiring 
 
 ### My story
 
