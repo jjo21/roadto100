@@ -3,5 +3,5 @@ The writings on this page are page inspired by ChatGPT, GitHub Copilot and coffe
 ![ChatGPT](/assets/img/chatgpt.jpg)
 
 ##### August 2023
-
-* Day 1: [Kernel Density Estimation](_posts/Data_posts/2020-02-07-kde.md)
+* [Day 1](/_posts/Data_posts/2023-08-12-sample-markdown.md): Sample Markdown
+* [Day 2](/_posts/Data_posts/2023-08-13-kde.md): Kernel Density Estimation
