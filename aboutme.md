@@ -4,7 +4,8 @@ title: About me
 subtitle: Time without purpose is a prison. 
 ---
 
-My name is John. I am a student of Physics, I cook a mean steak and I am an aspiring 
+My name is John. I am a student of Physics at Imperial College London. Amongst the other things on this website,
+I am interested in time travel, boxing and new ways to cook steak. 
 
 ### My story
 
