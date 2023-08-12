@@ -1,12 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Time without purpose is a prison. I think we should just be friends. 
+subtitle: Time without purpose is a prison. 
 ---
 
-My name is John, and I just need a place to empty the thoughts in my head so that I can fill it up with more
-episodes of Rick and Morty. 
+My name is John, and I am a student of Physics. I am particularly interested in building a time machine, just kidding. I 
+am interested in Physics, Data Science, Machine Learning 
 
 ### My story
 
-I was born and now I write. 
+![Picture of me](/assets/img/aboutme.jpg)
+
+I always wanted to be a pilot, but in the interests of staying alive, I decided to study the Physics
+behind why planes fly and wound up in this rabbit hole. 

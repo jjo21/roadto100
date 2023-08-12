@@ -2,5 +2,5 @@
 
 This will contain all my one a day posts for anything related to data science, statistics and machine learning.
 
-* [Data Science](Data_Posts/12_08_23.md)
+* Day 1: [Kernel Density Estimation](_posts/Data_posts/2020-02-07-random.md)
 * 
