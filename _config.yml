@@ -21,10 +21,11 @@ author: John
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "Math"
   Blog posts:
-    - "Math"
+    - Math: "Math"
+    - Physics: "Physics"
+    - Data Science/Statistics: "datascience_statistics"
+    - Quantitative Finance: "Quant"
 
 ################
 # --- Logo --- #
@@ -51,14 +52,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jjo21@ic.ac.uk"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: jjo21
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: daattali
+  linkedin: john-ow
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -88,14 +89,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
