@@ -1,4 +1,7 @@
-# Data Science
+---
+title: Data Science 
+subtitle: A collection of posts on data science
+---
 The writings on this page are page inspired by ChatGPT, GitHub Copilot and coffee.
 ![ChatGPT](/assets/img/chatgpt.jpg)
 
