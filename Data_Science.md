@@ -1,5 +1,5 @@
-This page is sponsored by ChatGPT, GitHub Copilot, stability.ai and coffee.
-
+# Data Science
+The writings on this page are page inspired by ChatGPT, GitHub Copilot and coffee.
 ![ChatGPT](/assets/img/chatgpt.jpg)
 
 ##### August 2023
