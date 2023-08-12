@@ -22,7 +22,7 @@ author: John
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn markdown: "Math"
   Blog posts:
     - "Math"
     - "Physics"
