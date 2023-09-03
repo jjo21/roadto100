@@ -6,5 +6,5 @@ subtitle: The writings on this page are page inspired by ChatGPT, GitHub Copilot
 
 ##### August 2023
 * [Sample Markdown](/_posts/Data_posts/2023-08-12-sample-markdown.md): Brief overview of mark down syntax
-* [Kernel Density Estimation](/_posts/Data_posts/2023-08-12-kde/2023-08-12-kde.md): An intuitive explanation of Kernel Density Estimation
+* [Kernel Density Estimation](/_posts/Data_posts/2023-08-12-kde/2023-08-13-kde.md): An intuitive explanation of Kernel Density Estimation
 * [Quantile - Quantile Plots](/_posts/Data_posts/2023-08-12-qq-plots/2023-08-12-qq-plots.md): How to interpret and use Quantile - Quantile Plots
