@@ -11,3 +11,5 @@ subtitle: The writings on this page are page inspired by ChatGPT, GitHub Copilot
 
 ##### September 2023
 * [Bayes Theorem](/_posts/Data_posts/2023-09-18-bayes/2023-09-18-bayes.md): An explanation and demonstration of Bayes Theorem
+* [Decision Trees](/_posts/Data_posts/2023-09-19-dt.md): A Decision Tree Machine Learning Model used to predict
+the outcome of a Premier League game
