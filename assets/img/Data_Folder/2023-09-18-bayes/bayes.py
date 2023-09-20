@@ -91,30 +91,30 @@ plt.show()
 
 # create one hundred bowls, each with the same probability for Cookie.set
 
-Cook = Bayes()
+Cookie2 = Bayes()
 for i in range(1, 101):
-    Cook.set('Bowl ' + str(i), 1/100)
+    Cookie2.set('Bowl ' + str(i), 1/100)
 
 # plot the prior
 x = np.arange(1, 101)
-y = Cook.prior.values()
+y = Cookie2.prior.values()
 
 for i in range(1,101):
     mix = dict(van=i/100, choc=(1-i/100))
-    Cook.mix('Bowl ' + str(i), mix)
+    Cookie2.mix('Bowl ' + str(i), mix)
 
 data2 = dict(van=2, choc=1)
-Cook.update(data2)
-y1 = Cook.posterior()
+Cookie2.update(data2)
+y1 = Cookie2.posterior()
 
 plt.plot(x, y, label='Prior')
 plt.plot(x, y1.values(), label='Posterior')
 plt.xlabel('Bowl Number')
 plt.legend()
 plt.show()
-print(Cook.get_max())
+print(Cookie2.get_max())
 
-cdf = Cook.credible_interval()
+cdf = Cookie2.credible_interval()
 
 #%%
 
