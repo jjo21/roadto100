@@ -4,7 +4,7 @@ title: About me
 subtitle: Time without purpose is a prison. 
 ---
 
-I am John, a Year 3 Physics student at Imperial College London. Amongst the other things on this website, I am interested in time travel, boxing and new ways to cook steak. 
+I am John, a Year 3 Physics student at Imperial College London. Amongst the other things on this website, I am interested in boxing and new ways to cook steak. 
 
 ### My story
 
